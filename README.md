@@ -6,6 +6,6 @@ CMS detector script that detects what panel is the website running on , filters 
 
 wordpress,joomla, prestashop, a lot more
 
-telegram ? @mrhouse998
+telegram ? @itslucifero
 
 Enjoy and leave us a comment if u need help
