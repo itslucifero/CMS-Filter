@@ -9,7 +9,7 @@ else:
 	
 print("""
  [#] Simple CMS Detector v1.0
- [#] Coded by ]mrhouse998
+ [#] Coded by itslucifero
  [#] https://t.me/the_omerta_store
 """)
 
